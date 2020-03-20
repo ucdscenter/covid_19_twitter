@@ -1,0 +1,910 @@
+{
+    "nodes": [
+        {
+            "graph_score": {
+                "handle": "lindacorbett18",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 13.333333333333332
+            },
+            "score": 1,
+            "id": 786322788055388160,
+            "followers_count": 4505,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "RT @alohatsunami: @mmpadellan My favorite is Amy McGrath's public service ad showing how to do \"air hand bumps\" and \"foot bumps\" and remind\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "lindacorbett18",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "alohatsunami",
+                "betweenness": 0.012903225806451613,
+                "degree": 0.12903225806451613,
+                "harmonic": 25.0
+            },
+            "score": 1,
+            "id": 909756985,
+            "followers_count": 10120,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "@mmpadellan My favorite is Amy McGrath's public service ad showing how to do \"air hand bumps\" and \"foot bumps\" and\u2026 https://t.co/t1KCfa8ShZ"
+            ],
+            "group": [
+                1
+            ],
+            "name": "alohatsunami",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mmpadellan",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 19.999999999999996
+            },
+            "score": 0,
+            "id": 1640929196,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "mmpadellan",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Michael45387329",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1120963472005718016,
+            "followers_count": 2,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "Coronaviruskentucky?"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Michael45387329",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "acpreston_7",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 714904263743434752,
+            "followers_count": 2495,
+            "retweet_count": 2,
+            "hashtags": [
+                "CoronavirusKentucky"
+            ],
+            "text": [
+                "RT @HopeBallard15: #CoronavirusKentucky\nSo angry right now.  Local hospital has many patients with severe respiratory issues and can't get\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "acpreston_7",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "HopeBallard15",
+                "betweenness": 0.002150537634408602,
+                "degree": 0.06451612903225806,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 732570123484188672,
+            "followers_count": 223,
+            "retweet_count": 2,
+            "hashtags": [
+                "CoronavirusKentucky"
+            ],
+            "text": [
+                "#CoronavirusKentucky\nSo angry right now.  Local hospital has many patients with severe respiratory issues and can't\u2026 https://t.co/n2qdJEUC0S"
+            ],
+            "group": [
+                1
+            ],
+            "name": "HopeBallard15",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bluehandusa",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 3422259011,
+            "followers_count": 766,
+            "retweet_count": 0,
+            "hashtags": [
+                "Kentucky",
+                "coronavirus",
+                "ForcedIsolation"
+            ],
+            "text": [
+                "\ud83e\udda0\ud83d\ude37 #Kentucky: A #coronavirus patient refused to quarantine, so deputies are surrounding his house. #ForcedIsolation\u2026 https://t.co/EkrtyK58kp"
+            ],
+            "group": [
+                1
+            ],
+            "name": "bluehandusa",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mayorlisle",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 24651744,
+            "followers_count": 166,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "Look for more moves similar to this by companies and financial institutions as we move forward through this challen\u2026 https://t.co/6EKIf2cAps"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mayorlisle",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ctyankee007",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 13.333333333333332
+            },
+            "score": 1,
+            "id": 4817992265,
+            "followers_count": 5145,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "RT @alohatsunami: @mmpadellan My favorite is Amy McGrath's public service ad showing how to do \"air hand bumps\" and \"foot bumps\" and remind\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ctyankee007",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mrdennissd",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 13.333333333333332
+            },
+            "score": 1,
+            "id": 878168299103698944,
+            "followers_count": 2093,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "RT @alohatsunami: @mmpadellan My favorite is Amy McGrath's public service ad showing how to do \"air hand bumps\" and \"foot bumps\" and remind\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mrdennissd",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "DisplacedDaisy",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 863182812307890176,
+            "followers_count": 679,
+            "retweet_count": 2,
+            "hashtags": [
+                "CoronavirusKentucky"
+            ],
+            "text": [
+                "RT @HopeBallard15: #CoronavirusKentucky\nSo angry right now.  Local hospital has many patients with severe respiratory issues and can't get\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "DisplacedDaisy",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "politickrazy",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 4.764705882352941
+            },
+            "score": 1,
+            "id": 1072693081,
+            "followers_count": 134,
+            "retweet_count": 5,
+            "hashtags": [
+                "CoronavirusKentucky",
+                "WheresMitch",
+                "dgaf",
+                "Vote",
+                "AmyMcGrathForSenate"
+            ],
+            "text": [
+                "RT @draculasspatula: #CoronavirusKentucky \n#WheresMitch he #dgaf \n#Vote \ud83d\udc49 #AmyMcGrathForSenate \nShe actually care about people!"
+            ],
+            "group": [
+                1
+            ],
+            "name": "politickrazy",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "draculasspatula",
+                "betweenness": 0.0064516129032258064,
+                "degree": 0.0967741935483871,
+                "harmonic": 19.0
+            },
+            "score": 1,
+            "id": 3559335676,
+            "followers_count": 768,
+            "retweet_count": 5,
+            "hashtags": [
+                "CoronavirusKentucky",
+                "WheresMitch",
+                "dgaf",
+                "Vote",
+                "AmyMcGrathForSenate"
+            ],
+            "text": [
+                "#CoronavirusKentucky \n#WheresMitch he #dgaf \n#Vote \ud83d\udc49 #AmyMcGrathForSenate \nShe actually care about people! https://t.co/16r0Pj1z7n"
+            ],
+            "group": [
+                1
+            ],
+            "name": "draculasspatula",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Atheist_Ateo",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 4.764705882352941
+            },
+            "score": 1,
+            "id": 1232472059977986048,
+            "followers_count": 163,
+            "retweet_count": 5,
+            "hashtags": [
+                "CoronavirusKentucky",
+                "WheresMitch",
+                "dgaf",
+                "Vote",
+                "AmyMcGrathForSenate"
+            ],
+            "text": [
+                "RT @draculasspatula: #CoronavirusKentucky \n#WheresMitch he #dgaf \n#Vote \ud83d\udc49 #AmyMcGrathForSenate \nShe actually care about people! https://t.c\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Atheist_Ateo",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ResisterSis20",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 18.529411764705884
+            },
+            "score": 2,
+            "id": 328756439,
+            "followers_count": 46560,
+            "retweet_count": 753,
+            "hashtags": [
+                "CoronavirusKentucky",
+                "WheresMitch",
+                "dgaf",
+                "Vote",
+                "AmyMcGrathForSenate",
+                "MoscowMitch",
+                "BooFukkingHoo"
+            ],
+            "text": [
+                "RT @draculasspatula: #CoronavirusKentucky \n#WheresMitch he #dgaf \n#Vote \ud83d\udc49 #AmyMcGrathForSenate \nShe actually care about people!",
+                "#MoscowMitch is upset. \nI don't care. Do you?\n#BooFukkingHoo \n\n@AmyMcGrathKY is going to beat him. https://t.co/oOPjY3UuK9"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ResisterSis20",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "DaveDdbig77",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 700377690,
+            "followers_count": 694,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "This is going to be so sad and completely decimate our economy. I know it\u2019s necessary but tell that tho the people\u2026 https://t.co/7y7AG485vN"
+            ],
+            "group": [
+                1
+            ],
+            "name": "DaveDdbig77",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "lyricizedFunk",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 48629442,
+            "followers_count": 158,
+            "retweet_count": 0,
+            "hashtags": [
+                "COVID\u30fc19"
+            ],
+            "text": [
+                "Everybody should remember to hit up your Asian markets for supplies because they're stocked #COVID\u30fc19\u2026 https://t.co/eFpqpVMgQd"
+            ],
+            "group": [
+                1
+            ],
+            "name": "lyricizedFunk",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "AT_1899",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 708284754,
+            "followers_count": 2106,
+            "retweet_count": 0,
+            "hashtags": [
+                "CoronaVirusKentucky"
+            ],
+            "text": [
+                "In case there was anyone wondering why FORMER Governor Matt Bevin is unemployed. #CoronaVirusKentucky\u2026 https://t.co/BjDzO6qy7i"
+            ],
+            "group": [
+                1
+            ],
+            "name": "AT_1899",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "MattBevin",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 1404269089,
+            "followers_count": 55006,
+            "retweet_count": 284,
+            "hashtags": [],
+            "text": [
+                "BREAKING NEWS:\n\nChicken Little has just confirmed that the sky IS indeed falling...\n\nEveryone is advised to take co\u2026 https://t.co/b2ryUeEss7"
+            ],
+            "group": [
+                1
+            ],
+            "name": "MattBevin",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "JesseCLee",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 212720008,
+            "followers_count": 122,
+            "retweet_count": 0,
+            "hashtags": [
+                "coronapocalypse",
+                "CoronaVirusUpdates",
+                "coronaviruskentucky"
+            ],
+            "text": [
+                "#coronapocalypse #CoronaVirusUpdates #coronaviruskentucky https://t.co/CqQP7VMODS"
+            ],
+            "group": [
+                1
+            ],
+            "name": "JesseCLee",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "OGOPer",
+                "betweenness": 0.0064516129032258064,
+                "degree": 0.0967741935483871,
+                "harmonic": 14.0
+            },
+            "score": 1,
+            "id": 628818151,
+            "followers_count": 2784,
+            "retweet_count": 0,
+            "hashtags": [
+                "MoscowMitch"
+            ],
+            "text": [
+                "@RepValDemings @HouseDemocrats Will @senatemajldr #MoscowMitch block the bill? Will he call the Senate into session\u2026 https://t.co/jB5RAirsLP"
+            ],
+            "group": [
+                1
+            ],
+            "name": "OGOPer",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "RepValDemings",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 13.333333333333332
+            },
+            "score": 0,
+            "id": 798973032362606600,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "RepValDemings",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "HouseDemocrats",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 4.666666666666667
+            },
+            "score": 0,
+            "id": 43963249,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "HouseDemocrats",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "senatemajldr",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 4.666666666666667
+            },
+            "score": 0,
+            "id": 1249982359,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "senatemajldr",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Ryan_Smither",
+                "betweenness": 0.002150537634408602,
+                "degree": 0.06451612903225806,
+                "harmonic": 12.0
+            },
+            "score": 1,
+            "id": 355146480,
+            "followers_count": 415,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "@KySportsRadio @CardChronicle UofL versus UK in a 3-game series. Play at empty Rupp. Play at empty YUM. Play on a p\u2026 https://t.co/RZhBbYJUN5"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Ryan_Smither",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "KySportsRadio",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 11.666666666666666
+            },
+            "score": 0,
+            "id": 21920725,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "KySportsRadio",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "CardChronicle",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 3.666666666666667
+            },
+            "score": 0,
+            "id": 27740143,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "CardChronicle",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mymichelle2682",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 3.764705882352941
+            },
+            "score": 1,
+            "id": 2526047631,
+            "followers_count": 94,
+            "retweet_count": 2,
+            "hashtags": [
+                "coronavirusky",
+                "coronaviruskentucky",
+                "covid19ky",
+                "covid19kentucky"
+            ],
+            "text": [
+                "RT @CoronavirusKY: Suspected Case is Rowan County\n#coronavirusky #coronaviruskentucky #covid19ky #covid19kentucky"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mymichelle2682",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "CoronavirusKY",
+                "betweenness": 0.002150537634408602,
+                "degree": 0.06451612903225806,
+                "harmonic": 17.0
+            },
+            "score": 1,
+            "id": 1237373146489069569,
+            "followers_count": 10,
+            "retweet_count": 2,
+            "hashtags": [
+                "coronavirusky",
+                "coronaviruskentucky",
+                "covid19ky",
+                "covid19kentucky"
+            ],
+            "text": [
+                "Suspected Case is Rowan County\n#coronavirusky #coronaviruskentucky #covid19ky #covid19kentucky https://t.co/cmG6EdxA0r"
+            ],
+            "group": [
+                1
+            ],
+            "name": "CoronavirusKY",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "MoradiShayan",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 17.0
+            },
+            "score": 1,
+            "id": 1366108952,
+            "followers_count": 898,
+            "retweet_count": 0,
+            "hashtags": [
+                "COVID19"
+            ],
+            "text": [
+                "Recent #COVID19 updates -  @universityofky will remain open, but online instruction from Mar 23 through Apr 3.\u2026 https://t.co/6PBBoNWHQ7"
+            ],
+            "group": [
+                1
+            ],
+            "name": "MoradiShayan",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "universityofky",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 17.0
+            },
+            "score": 1,
+            "id": 34323121,
+            "followers_count": 108296,
+            "retweet_count": 796,
+            "hashtags": [],
+            "text": [
+                "To ensure the safety of the UK community, we have released the following update on the coronavirus (COVID-19).\n\nThe\u2026 https://t.co/aqANteDMmZ"
+            ],
+            "group": [
+                1
+            ],
+            "name": "universityofky",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "WKYT",
+                "betweenness": 0.0,
+                "degree": 0.03225806451612903,
+                "harmonic": 16.764705882352942
+            },
+            "score": 1,
+            "id": 16434865,
+            "followers_count": 137304,
+            "retweet_count": 4,
+            "hashtags": [],
+            "text": [
+                "Doctors at St. Claire Regional Medical Center say the patient is being monitored by the state health department. https://t.co/arQO6U7Pqy"
+            ],
+            "group": [
+                1
+            ],
+            "name": "WKYT",
+            "hgroup": []
+        }
+    ],
+    "links": [
+        {
+            "source": 786322788055388160,
+            "target": 909756985,
+            "value": 0.2
+        },
+        {
+            "source": 909756985,
+            "target": 1640929196,
+            "value": 0.1
+        },
+        {
+            "source": 714904263743434752,
+            "target": 732570123484188672,
+            "value": 0.2
+        },
+        {
+            "source": 4817992265,
+            "target": 909756985,
+            "value": 0.2
+        },
+        {
+            "source": 878168299103698944,
+            "target": 909756985,
+            "value": 0.2
+        },
+        {
+            "source": 863182812307890176,
+            "target": 732570123484188672,
+            "value": 0.2
+        },
+        {
+            "source": 1072693081,
+            "target": 3559335676,
+            "value": 0.5
+        },
+        {
+            "source": 1232472059977986048,
+            "target": 3559335676,
+            "value": 0.5
+        },
+        {
+            "source": 328756439,
+            "target": 3559335676,
+            "value": 0.5
+        },
+        {
+            "source": 3559335676,
+            "target": 328756439,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 708284754,
+            "target": 1404269089,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 628818151,
+            "target": 798973032362606600,
+            "value": 0.1
+        },
+        {
+            "source": 628818151,
+            "target": 43963249,
+            "value": 0.5
+        },
+        {
+            "source": 628818151,
+            "target": 1249982359,
+            "value": 0.5
+        },
+        {
+            "source": 355146480,
+            "target": 21920725,
+            "value": 0.1
+        },
+        {
+            "source": 355146480,
+            "target": 27740143,
+            "value": 0.5
+        },
+        {
+            "source": 2526047631,
+            "target": 1237373146489069569,
+            "value": 0.5
+        },
+        {
+            "source": 1366108952,
+            "target": 34323121,
+            "value": 0.058823529411764705
+        },
+        {
+            "source": 1237373146489069569,
+            "target": 16434865,
+            "value": 0.06666666666666667
+        }
+    ],
+    "terms": [
+        {
+            "h": "CoronavirusKentucky",
+            "score": 9
+        },
+        {
+            "h": "WheresMitch",
+            "score": 4
+        },
+        {
+            "h": "dgaf",
+            "score": 4
+        },
+        {
+            "h": "Vote",
+            "score": 4
+        },
+        {
+            "h": "AmyMcGrathForSenate",
+            "score": 4
+        },
+        {
+            "h": "coronaviruskentucky",
+            "score": 4
+        },
+        {
+            "h": "coronavirusky",
+            "score": 3
+        },
+        {
+            "h": "covid19ky",
+            "score": 3
+        },
+        {
+            "h": "covid19kentucky",
+            "score": 3
+        },
+        {
+            "h": "MoscowMitch",
+            "score": 2
+        },
+        {
+            "h": "Kentucky",
+            "score": 1
+        },
+        {
+            "h": "coronavirus",
+            "score": 1
+        },
+        {
+            "h": "ForcedIsolation",
+            "score": 1
+        },
+        {
+            "h": "BooFukkingHoo",
+            "score": 1
+        },
+        {
+            "h": "COVID\u30fc19",
+            "score": 1
+        },
+        {
+            "h": "CoronaVirusKentucky",
+            "score": 1
+        },
+        {
+            "h": "coronapocalypse",
+            "score": 1
+        },
+        {
+            "h": "CoronaVirusUpdates",
+            "score": 1
+        },
+        {
+            "h": "COVID19",
+            "score": 1
+        }
+    ]
+}

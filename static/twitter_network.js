@@ -158,7 +158,7 @@ async function wrapper(){
 
   var barg = barChart.append("g")
     .attr("transform", "translate(" + 0 + "," + 5 + ")");
-  let fp = "/" + params.hashtag + "_network.json"
+  let fp = "" + params.hashtag + "_network.json"
   d3.selectAll(".thehashtag").text(params.hashtag)
   let data = await d3.json(fp)
 

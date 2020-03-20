@@ -1,0 +1,363 @@
+[
+    {
+        "created_at": "Thu Mar 19 16:35:03 +0000 2020",
+        "id": 1240678180844900360,
+        "id_str": "1240678180844900360",
+        "text": "Please review the #OFDA Press Release and share with your media outlets: https://t.co/O53exqyQ46\n#CoronaVirusOhio\u2026 https://t.co/2yZeWTnL2k",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OFDA",
+                    "indices": [
+                        18,
+                        23
+                    ]
+                },
+                {
+                    "text": "CoronaVirusOhio",
+                    "indices": [
+                        97,
+                        113
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/O53exqyQ46",
+                    "expanded_url": "http://ow.ly/V2hN50yQ6pn",
+                    "display_url": "ow.ly/V2hN50yQ6pn",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                },
+                {
+                    "url": "https://t.co/2yZeWTnL2k",
+                    "expanded_url": "https://twitter.com/i/web/status/1240678180844900360",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 289558003,
+            "id_str": "289558003",
+            "name": "OhioFuneralDirectors",
+            "screen_name": "ofdaonline",
+            "location": "Columbus, Ohio",
+            "description": "For more than a hundred years, funeral directors throughout Ohio have counted on the Ohio Funeral Directors Association.",
+            "url": "https://t.co/GFQrxpHpCj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GFQrxpHpCj",
+                            "expanded_url": "http://www.OFDAonline.org",
+                            "display_url": "OFDAonline.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1199,
+            "friends_count": 315,
+            "listed_count": 16,
+            "created_at": "Thu Apr 28 21:20:59 +0000 2011",
+            "favourites_count": 348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2108,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1140990582392872960/4RZIQfiy_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140990582392872960/4RZIQfiy_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/289558003/1583344339",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 19 15:30:47 +0000 2020",
+        "id": 1240662005721313285,
+        "id_str": "1240662005721313285",
+        "text": "Unemployment claims top 100,000, free bus rides, a roll of TP with every carryout order. My story on the latest\u2026 https://t.co/VGy0F80CTE",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/VGy0F80CTE",
+                    "expanded_url": "https://twitter.com/i/web/status/1240662005721313285",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19076104,
+            "id_str": "19076104",
+            "name": "Andrew Welsh-Huggins",
+            "screen_name": "awhcolumbus",
+            "location": "Columbus, Ohio",
+            "description": "AP News Guy, mystery writer, Slytherin. Proud native adopted Ohioan. Can often be found buying kibble.",
+            "url": "https://t.co/BIzoa1op5O",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BIzoa1op5O",
+                            "expanded_url": "http://andrewwelshhuggins.com",
+                            "display_url": "andrewwelshhuggins.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4005,
+            "friends_count": 2990,
+            "listed_count": 247,
+            "created_at": "Fri Jan 16 17:25:16 +0000 2009",
+            "favourites_count": 1915,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 7998,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EDF9F7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1004344664919629824/ZnCVTkGU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004344664919629824/ZnCVTkGU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19076104/1398437926",
+            "profile_link_color": "CFB46F",
+            "profile_sidebar_border_color": "2F1E24",
+            "profile_sidebar_fill_color": "DE2916",
+            "profile_text_color": "9AE4E7",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 19 14:35:00 +0000 2020",
+        "id": 1240647967905918978,
+        "id_str": "1240647967905918978",
+        "text": "Financial Institutions Offer Relief During Crisis #coronavirus #CoronavirusOutbreak #CoronavirusUSA\u2026 https://t.co/uinPZdzmuu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "coronavirus",
+                    "indices": [
+                        50,
+                        62
+                    ]
+                },
+                {
+                    "text": "CoronavirusOutbreak",
+                    "indices": [
+                        63,
+                        83
+                    ]
+                },
+                {
+                    "text": "CoronavirusUSA",
+                    "indices": [
+                        84,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/uinPZdzmuu",
+                    "expanded_url": "https://twitter.com/i/web/status/1240647967905918978",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 314550535,
+            "id_str": "314550535",
+            "name": "The Business Journal",
+            "screen_name": "TheBizJournal",
+            "location": "Youngstown, Ohio",
+            "description": "Whether online or in-hand, The Business Journal acts as a catalyst, resource and point-of-contact for today\u2019s business leaders in the five-county area.",
+            "url": "http://t.co/MhmylFQJdL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MhmylFQJdL",
+                            "expanded_url": "http://businessjournaldaily.com",
+                            "display_url": "businessjournaldaily.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4007,
+            "friends_count": 1130,
+            "listed_count": 250,
+            "created_at": "Fri Jun 10 12:52:52 +0000 2011",
+            "favourites_count": 1733,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 35231,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3216080241/c95cef074691e30c112dd3db0de71989_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3216080241/c95cef074691e30c112dd3db0de71989_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/314550535/1556125581",
+            "profile_link_color": "008348",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

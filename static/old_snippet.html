@@ -1,0 +1,62 @@
+<div class='row'>
+
+      <div class="col-12" id="loading-div" align="center">
+        <h6 id="loading-label">Loading data</h6>
+        <img src="big-ajax-loader.gif">
+      </div>
+      <div class="col-12">
+        <div class="row">
+      <div class="col-12">
+      <div class='col-lg-12'>
+        <div id="graph"></div>
+      </div>
+    </div>
+
+    <div class='row'>
+      <div class='col-lg-3'>
+        <h5>Toggle Node Size By:</h5>
+        <div class="btn-group" data-toggle="buttons">
+          <label class="btn btn-primary active" click='toggleButton(1)'>
+            <input type="radio" name="options"  id="option1" > Tweets
+          </label>
+          <label class="btn btn-primary" click='toggleButton(2)'>
+            <input type="radio" name="options"  id="option2" checked> Links
+          </label>
+        </div>
+      </div>
+       <div class="col-lg-2">
+        <h5 style="stroke:white;">&nbsp</h5>
+        <button class="btn btn-primary" id="restoreButton">Restore Links</button>
+      </div>
+         <div class="col-lg-2">
+        <h5 style="stroke:white;">&nbsp</h5>
+        <button class="btn btn-primary" id="botsButton">Hide group1</button>
+        <button class="btn btn-primary" id="newsButton">Hide group2</button>
+        </div>
+        <div class="col-lg-5">
+        <h5 style="stroke:white;">&nbsp</h5>
+        <input type="text" id="searchName" placeholder="handle to highlight"></input>
+        <button class="btn btn-primary" id="nameButton">Remove</button>
+        </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10">
+        <div id="barchart">
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+     <div class='col-lg-9'>
+    <div id="network" ></div>
+    </div>
+    <div class='col-lg-3'>
+    <div id="graph_table" style="overflow-y: auto; height:800px"></div>
+    </div>
+
+    </div>
+    </div>
+  </div>
+  </div>
+  </div>

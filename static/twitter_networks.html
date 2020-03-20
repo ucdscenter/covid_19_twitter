@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Twitter Network</title>
+  <meta charset="utf-8" />
+<link rel="stylesheet" href="ext/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="ext/css/dc.css"/> 
+ <style>
+ .hidden {
+  display:none;
+ }
+ .show{
+  display:inline;
+ }
+ .no_display {
+  display:none;
+ }
+ .bot{
+  stroke: red;
+  stroke-width: 100px;
+ }
+
+ .barselected{
+  stroke: black;
+  stroke-width: 1.5px;
+ }
+
+ .redhighlight{
+  stroke: red;
+  stroke-opacity: 1;
+ }
+
+ td, th {
+  padding: 1px 4px;
+  border-bottom: 1px solid #ddd;
+}
+
+.mouseover {
+  position : absolute;
+  background-color: steelblue;
+  width : 200px;
+  z-index : 1000000;
+  font-size: 8px;
+  border: 1px solid black;
+}
+
+.selected_edge {
+  stroke : steelblue;
+  stroke-width : 1.5px;
+  stroke-opacity : 1;
+}
+.deselected_node {
+  opacity : .1;
+}
+ </style>
+ 
+</head>
+<body>
+  <div class='container-fluid'>
+      <div class="mouseover">
+    <p>practice social distancing!</p>
+  </div>
+      <div class='row'>
+        <div class='col-lg-12'>
+        <h1 style='font-family: Helvetica'>
+        Twitter Interaction Networks for hashtag <span class="thehashtag"></span>
+        </h1>
+        <p>Network showing users who used <span class="thehashtag"></span> in their tweets, and who interacted with who. Thicker links indicate replies and mentions, thinner ones indicate retweets. Use the table to see most influential users to the network, and the bar graph to see the top hashtags used.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12" id="loading-div" align="center">
+          <h6 id="loading-label">Loading data</h6>
+          <img src="big-ajax-loader.gif">
+      </div>
+      </div>
+
+      <div class="row post-loading hidden">
+      <div class="col-lg-10">
+        <div id="barchart">
+        </div>
+      </div>
+    </div>
+    <div class="row post-loading hidden">
+     <div class='col-lg-9'>
+    <div id="network" ></div>
+    </div>
+    <div class='col-lg-3'>
+      <div id="graph_table" style="overflow-y: auto; height:800px">
+      </div>
+    </div>
+    </div>
+  </div><!--container-fluid-->
+
+
+
+
+
+    <script src="ext/d3.v5.min.js"></script>   
+    <script src="ext/jquery.min.js"></script>
+    <script src="ext/bootstrap.min.js"></script>
+  <script src='twitter_network.js'></script>
+
+
+
+</body>
+</html>

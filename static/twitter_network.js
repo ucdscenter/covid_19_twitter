@@ -372,7 +372,7 @@ barg.selectAll("text").attr("text-anchor", "middle").attr("transform", "rotate(1
   node.append("circle")
     .attr("r", function(d){
       if (d.score != undefined){
-      return Math.sqrt(d.score / Math.PI) * 10
+      return Math.sqrt(d.score / Math.PI) * 30
     }
     return 5
     })
